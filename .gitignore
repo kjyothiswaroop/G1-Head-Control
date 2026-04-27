@@ -1,0 +1,5 @@
+
+# graphify generated outputs
+graphify-out/
+**/graphify-out/
+.vscode/
