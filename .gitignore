@@ -3,3 +3,4 @@
 graphify-out/
 **/graphify-out/
 .vscode/
+**/__pycache__
