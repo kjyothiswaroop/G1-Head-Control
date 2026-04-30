@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'head_pico_bridge = head_pico_bridge.bridge_node:main',
         ],
     },
 )
