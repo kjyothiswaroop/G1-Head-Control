@@ -4,7 +4,7 @@
 
 ROS 2 package for the 2-DOF head of the Unitree G1 robot.
 
-<!-- gif of head moving goes here -->
+[](https://github.com/user-attachments/assets/dfd70f2d-9fb1-436c-9037-9ec9a890800a)
 
 ## Packages
 
